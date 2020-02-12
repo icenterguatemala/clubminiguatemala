@@ -1,0 +1,2 @@
+[28-Jan-2019 00:48:14 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/icenter2016/public_html/clubminicoopergt.org/wp-content/plugins/themeisle-companion/vendor/codeinwp/themeisle-sdk/class-themeisle-sdk-widget-dashboard-blog.php on line 375
+[28-Jan-2019 00:48:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/icenter2016/public_html/clubminicoopergt.org/wp-content/plugins/themeisle-companion/vendor/codeinwp/themeisle-sdk/class-themeisle-sdk-widget-dashboard-blog.php on line 376
